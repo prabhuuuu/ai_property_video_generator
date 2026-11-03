@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+venv/
+.env
+data/properties.db
+data/uploads/*
+data/videos/*
+data/prompts/*
+!data/uploads/.gitkeep
+!data/videos/.gitkeep
+!data/prompts/.gitkeep
